@@ -22,7 +22,7 @@ Interested in:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -32,13 +32,9 @@ Interested in:
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amiralihabibzadeh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amiralihabibzadeh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+<img src="https://ghstats.dev/api/card?username=amiralihabibzadeh&theme=tokyonight" />
 </div>
 
